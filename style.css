@@ -23,7 +23,7 @@ body {
   }
   
   .text-box {
-      background: #1a237e;
+      background-color: #1a237e;
       padding: 20;
       border: 0px solid #f1f1f1;
       border-width: 0px;
@@ -51,13 +51,13 @@ body {
     }
   
   
-    .registerlink a{
+    .registerlink a {
     text-decoration: none;
-    color:white;
+    color: white;
     }
     
-    a {
-      text-decoration:none;
+   a {
+      text-decoration: none;
       }
 
   .mainlogin {
