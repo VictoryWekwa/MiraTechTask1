@@ -23,13 +23,12 @@ body {
   }
   
   .text-box {
-      background-color:white;
+      background: white;
       padding: 20;
       border: 0px solid #f1f1f1;
       border-width: 0px;
     
       height:10%;
-      color: white;
       display: flex;
       justify-content:space-between;
       align-content: space-around;
@@ -37,7 +36,7 @@ body {
     
   .alignright {
         float: right;
-        color:white;
+        color: white;
         justify-content: right;
         font-size:medium;
 }
