@@ -23,7 +23,8 @@ body {
   }
   
   .text-box {
-      background-color:#1a237e;
+      background-color:white;
+      background:#1a237e;
       padding: 20;
       border: 0px solid #f1f1f1;
       border-width: 0px;
