@@ -84,7 +84,9 @@ body {
     border-width:5px; 
     border-bottom-style:solid;
     border: none;
-    height: 20%;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    height:40px
     font-size: large;
     font-family: 'Arial Narrow Bold';
     text-align: left;
