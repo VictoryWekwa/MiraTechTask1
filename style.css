@@ -37,6 +37,7 @@ body {
         float: right;
         color:white;
         justify-content: right;
+        font-size:medium;
 }
     .alignleft {
         width: 33.33%;
@@ -73,8 +74,8 @@ body {
       cursor: pointer;
       padding: 20px;
       margin-left: -5px;
-      font-size: medium;
       color: white;
+      font-family: sans-serif;
     }
     
 
