@@ -1,0 +1,120 @@
+body {
+    background: #ede7f6;
+  }
+  .img {
+    display: flex;
+    width: -10%;
+    height: 50%;
+  }
+  .imgcontainer {
+    text-align: center;
+    margin: 6px 0 0px 0;
+  }
+  h1 {
+      text-align:center;
+      color: #070572ce;
+      font-family: Arial;
+  }
+  p {
+      text-align: center;
+      font-family: sans-serif;
+  }
+  
+  .text-box {
+      background-color:#1a237e;
+      padding: 20;
+      border: 0px solid #f1f1f1;
+      border-width: 0px;
+    
+      height:10%;
+      color: white;
+      display: flex;
+      justify-content:space-between;
+      align-content: space-around;
+      }
+    
+  .alignright {
+        float: right;
+        color:white;
+        justify-content: right;
+}
+    .alignleft {
+        width: 33.33%;
+        padding: -15px;
+        font-size: xx-large;
+        margin-left: 5px;
+        padding-top: 0px;
+        text-align: left;
+    }
+  
+  
+  a {
+    text-decoration: none;
+  
+  }
+  .mainlogin {
+    margin:auto;
+    background: white;
+    bottom: 0 2px 2px rgb(0, 0, 0,0.4);
+    padding: 0;
+    float:center;
+    
+    align-items: center;
+    background-color: #f1f1f1;
+    display:flex;
+    width: 30%;
+    height: 20%;
+    border-radius: 5px;
+  }
+  
+    h2, h6 {
+      display: inline;
+      cursor: pointer;
+      padding: 20px;
+      margin-left: -5px;
+      font-size: medium;
+      color: white;
+    }
+    
+
+  input {
+    width: 100%;
+    outline:none;
+    margin: 1.3rem 0 1.3rem 0;
+    border: none;
+    height: 40%;
+    font-size: large;
+    font-family: 'Arial Narrow Bold';
+    text-align: left;
+    justify-content: left;
+    padding:2rem;
+    background-color: transparent;
+  }
+ 
+  
+  button {
+    background-color:darkblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 10px;
+    border: none;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    display: flex;
+    outline: none;
+  }
+  .button{
+    display: flex;
+    text-align: center;
+  
+  }
+  
+  .psw {
+      text-align: center;
+      padding: 20;
+      margin: 10px;
+
+  }
