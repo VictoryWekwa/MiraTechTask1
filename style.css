@@ -49,15 +49,10 @@ body {
         text-align: left;
         color: white;
     }
-  
-  
-    .registerlink a{
-    text-decoration: none;
-    color: white;
-    }
     
    a {
       text-decoration: none;
+      color: white;
       }
 
   .mainlogin {
@@ -127,5 +122,6 @@ body {
       text-align: center;
       padding: 20;
       margin: 10px;
+      color: #1a237e;
 
   }
