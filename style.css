@@ -84,14 +84,14 @@ body {
     border-width:5px; 
     border-bottom-style:solid;
     border: none;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid black;
     background: transparent;
     height:40px
     font-size: large;
     font-family: 'Arial Narrow Bold';
     text-align: left;
     justify-content: left;
-    padding:2rem;
+    
     background-color: transparent;
   }
  
