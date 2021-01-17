@@ -1,3 +1,8 @@
-# Mira Internship Web development task one building of a login page.
+# Mira technologies Internship Web development task one building of a login page.
 
-HTML and CSS used.
+## Languages Used :
+  - HTML
+  - CSS
+
+## View live here : 
+https://victorywekwa.github.io/MiratechInternshipWebdevTask1/
