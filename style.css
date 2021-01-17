@@ -27,7 +27,7 @@ body {
       padding: 20;
       border: 0px solid #f1f1f1;
       border-width: 0px;
-    
+      color: white;
       height:10%;
       display: flex;
       justify-content:space-between;
@@ -51,7 +51,7 @@ body {
     }
   
   
-    .registerlink a {
+    .registerlink a{
     text-decoration: none;
     color: white;
     }
