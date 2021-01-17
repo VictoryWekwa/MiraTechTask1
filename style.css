@@ -45,6 +45,7 @@ body {
         margin-left: 5px;
         padding-top: 0px;
         text-align: left;
+        color: white;
     }
   
   
@@ -55,10 +56,10 @@ body {
   .mainlogin {
     margin:auto;
     background: white;
-    bottom: 0 2px 2px rgb(0, 0, 0,0.4);
+    bottom: 0 1px 1px rgb(0, 0, 0,0.4);
     padding: 0;
     float:center;
-    
+    border-bottom-style:1px solid black;
     align-items: center;
     background-color: #f1f1f1;
     display:flex;
