@@ -22,7 +22,7 @@ h1 {
     text-align:center;
     color: #070572ce;
     font-family:Roboto;
-    padding: 5 5;
+    padding: 0.5 0.5;
     font-size: 400%;
 }
 p {
@@ -33,14 +33,13 @@ p {
 
 header {
     background-color:#1a237e;
-    padding: 10;
+    padding: 2;
     border: 0px solid #f1f1f1;
     border-width: 0px;
     width: 100%;
     
     color: white;
     display: flex;
-    justify-content:space-between;
     align-content: space-around;
     }
   
@@ -85,7 +84,7 @@ a {
     color: white;
   }
   h6 {
-    text-align: end;
+    justify-content: flex-end;
   }
   h2 {
     font-size:large;
